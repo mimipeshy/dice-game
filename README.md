@@ -1,7 +1,7 @@
-# dice-game
+# Dice-game:-
 a simple fun dice game
 
-# GAME RULES:
+# Game rules:-
 
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
@@ -9,5 +9,5 @@ a simple fun dice game
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 
-# To play the game:
+# To play the game:-
 - Visit this link and get started https://mimipeshy.github.io/dice-game/
